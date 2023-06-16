@@ -7,8 +7,6 @@ public class Employee {
 
 
     //get maka, set manova
-
-
     public int getId() {
         return id;
     }
