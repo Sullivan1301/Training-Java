@@ -59,7 +59,10 @@ public class Exo3 {
         public String getAuthorName() {
             return author.getName();
         }
-    }
+        /*
+        public boolean isThereAStock(){
+        return this.stock > 0  };   */
+   }
     // Classe BookTest
     public static class BookTest {
         public static void main(String[] args) {

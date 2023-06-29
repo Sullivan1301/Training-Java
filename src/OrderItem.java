@@ -47,5 +47,8 @@ public class OrderItem {
         this.unitPrice = unitPrice;
     }
 
+    public double getGrandTotal(){
+       return quantity * unitPrice;
+    }
 
 }
